@@ -14,10 +14,11 @@ body {
 
 .container {
     padding: 2rem;
-    min-height: 55vh;
-    width: 50vh;
+    min-height: 45vh;
+    width: 40vh;
     border-radius: 1rem;
     background-color: white;
+    border: 1px solid black;
 }
 
 form {
@@ -79,4 +80,5 @@ form button {
     background-color: darkmagenta;
     color: white;
     font-size: 1rem;
+
 }
