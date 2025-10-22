@@ -13,7 +13,7 @@ body {
 }
 
 .container {
-    padding: 2rem;
+    padding: 2rem 1rem 1rem 1rem;
     min-height: 45vh;
     width: 40vh;
     border-radius: 1rem;
@@ -82,3 +82,4 @@ form button {
     font-size: 1rem;
 
 }
+
