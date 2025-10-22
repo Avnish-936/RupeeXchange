@@ -1,12 +1,25 @@
 @media (max-width: 426px) {
+
+    html,
+    body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    * {
+        box-sizing: border-box;
+    }
+
     h2 {
         text-align: center;
     }
 
     .container {
-        height: 55vh;
-        width: 45vh;
+        height: 60vh;
+        width: 90vw; 
         padding: 1rem;
+        margin: 0 auto;
     }
 
     form {
@@ -29,9 +42,10 @@
         margin-left: 0.4rem;
     }
 
-    .select-element{
+    .select-element {
         width: 6rem;
         justify-content: space-evenly;
+        display: flex;
+        align-items: center;
     }
-
 }
