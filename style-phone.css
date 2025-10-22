@@ -48,4 +48,9 @@
         display: flex;
         align-items: center;
     }
+
+    .msg{
+        margin: 1rem 0 1rem 0;
+    }
 }
+
