@@ -4,7 +4,8 @@
     }
 
     .container {
-        width: 50vh;
+        height: 55vh;
+        width: 45vh;
         padding: 1rem;
     }
 
@@ -32,4 +33,5 @@
         width: 6rem;
         justify-content: space-evenly;
     }
+
 }
